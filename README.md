@@ -4,9 +4,8 @@
 
 Starting with VTP which will automatically cascade/sync Vlan accross the other switches.
 1. VTP
-First we create the VTP
 Device: Core-Switch-1
-configure terminal
+```cisco configure terminal
 vtp domain Bank
 vtp password Cisco
 vtp version 2
@@ -18,7 +17,7 @@ name STUDENT
 vlan 100
 name EDGE_ROUTERS
 vlan 200
-name MANAGEMENT
+name MANAGEMENT```
 
 Devices: Core Switch-2, Access Switches-1 and Access Switche-1
 configure terminal
