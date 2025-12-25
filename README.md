@@ -17,7 +17,7 @@ name STUDENT
 vlan 100
 name EDGE_ROUTERS
 vlan 200
-name MANAGEMENT```
+name MANAGEMENT
 
 Devices: Core Switch-2, Access Switches-1 and Access Switche-1
 configure terminal
