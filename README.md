@@ -3,9 +3,9 @@
 <img width="1052" height="540" alt="image" src="https://github.com/user-attachments/assets/b45a35f1-68ef-41e4-8293-c8517a706b88" />
 
 Starting with VTP which will automatically cascade/sync Vlan accross the other switches.
+```cisco
 1. VTP
 Device: Core-Switch-1
-```cisco configure terminal
 vtp domain Bank
 vtp password Cisco
 vtp version 2
