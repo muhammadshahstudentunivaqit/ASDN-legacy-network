@@ -122,7 +122,7 @@ exit
 
 Device: HQ-Rtr-2
 interface Tunnel0
-ip address 172.16.1.1 255.255.255.252
+ip address 172.16.2.1 255.255.255.252
 tunnel source GigabitEthernet0/0/0
 tunnel destination 200.2.2.2
 exit
