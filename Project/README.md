@@ -1,7 +1,7 @@
 # ASDN-legacy-network
 
 
-<img width="1009" height="547" alt="image" src="https://github.com/user-attachments/assets/95281d94-c2d4-465e-abd4-249294e019bb" />
+<img width="996" height="543" alt="image" src="https://github.com/user-attachments/assets/d355d4b9-221c-46ab-bdad-df7625787e44" />
 
 In this lab, we have established the connectivity between Headquarter network and Branch network over GRE VPN tunnel along with the HSRP for gateway redundancy, Etherchannel for Link aggregation and VTP for VLAN management.
 
